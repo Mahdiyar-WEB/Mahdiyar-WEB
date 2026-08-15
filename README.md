@@ -1,6 +1,6 @@
 # 💫 About Me
 
-💻 Front-End Developer with 5+ years of experience building modern web applications using React, Next.js, and TypeScript.<br>
+💻 Front-End Engineer with 5+ years of experience building modern web applications using React, Next.js, and TypeScript.<br>
 
 🚀 Currently working at Irancell, delivering scalable digital solutions and contributing to enterprise-level projects.<br>
 
